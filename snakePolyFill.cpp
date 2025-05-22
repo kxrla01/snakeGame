@@ -1,4 +1,4 @@
-// Flood-Fill (Forest Fire) Polygon Filling Implementation
+// Flood-Fill (Forest Fire) Polygon Filling Implementation.
 typedef struct queue Queue;
 
 struct queue{
