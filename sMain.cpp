@@ -7,7 +7,7 @@
 #include <time.h>
 #include <windows.h>
 #include "sDDA.cpp"
-#include "SnakePollyFill.cpp"
+#include "SnakePolyFill.cpp"
 
 using namespace std;
 
