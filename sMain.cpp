@@ -6,8 +6,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <windows.h>
-#include "SNAKE_DDA.cpp"
-#include "SNAKE_POLY_FILL.cpp"
+#include "sDDA.cpp"
+#include "SnakePollyFill.cpp"
 
 using namespace std;
 
